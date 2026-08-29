@@ -27,6 +27,68 @@
   },
   "games": [
     {
+      "id": "g1787976864150",
+      "name": "火影的养子 v1.10 安卓+PC",
+      "section": "游戏",
+      "categories": [
+        "PC",
+        "安卓"
+      ],
+      "category": "PC",
+      "price": "5.5",
+      "description": "非常有潜力的一部作品，就是游戏更新的太慢了，雏田的剧情目前是刚刚上垒\n但是目前的CG质量也够了，只能说再沉淀沉淀吧\n可以勉强给到：夯！",
+      "cover": "images/1787976914522_screenshot0001.jpg",
+      "screenshots": [
+        "images/1787976928227_screenshot0012.jpg",
+        "images/1787976928274_screenshot0014.jpg",
+        "images/1787976927978_screenshot0005.jpg",
+        "images/1787976928033_screenshot0008.jpg",
+        "images/1787976928130_screenshot0010.jpg",
+        "images/1787976928179_screenshot0011.jpg",
+        "images/1787976927927_screenshot0002.jpg",
+        "images/1787976928083_screenshot0009.jpg"
+      ],
+      "published": true,
+      "subs": []
+    },
+    {
+      "id": "g1787974861724",
+      "name": "哥特少女勇闯恶魔城 SiNiSistar1+2",
+      "section": "游戏",
+      "categories": [
+        "PC"
+      ],
+      "category": "PC",
+      "price": "8",
+      "description": "高质量像素ACT，质量非常高，像素风格的动态CG，附带有存档。\n其中2代有mod可改变角色外观和去码补丁\n这里必须给到：夯！！",
+      "cover": "images/1787974961983_ScreenShot_.jpg",
+      "screenshots": [
+        "images/1787974979437_ScreenShot_2026-08-29_110132_511.jpg",
+        "images/1787974979697_ScreenShot_2026-08-29_113448_597.jpg",
+        "images/1787974979477_ScreenShot_2026-08-29_110411_782.jpg",
+        "images/1787974979516_ScreenShot_2026-08-29_110518_855.jpg",
+        "images/1787974979556_ScreenShot_2026-08-29_110823_900.jpg",
+        "images/1787974979600_ScreenShot_2026-08-29_113050_338.jpg",
+        "images/1787974979649_ScreenShot_2026-08-29_113225_991.jpg",
+        "images/1787974979736_ScreenShot_2026-08-29_113524_563.jpg"
+      ],
+      "published": true,
+      "subs": [
+        {
+          "id": "s1787974998544",
+          "name": "SiNiSistar1",
+          "price": "4",
+          "cover": "images/1787975005529_ScreenShot_2026-08-29_110228_465.jpg"
+        },
+        {
+          "id": "s1787975017496",
+          "name": "SiNiSistar2",
+          "price": "6",
+          "cover": "images/1787975022448_ScreenShot_2026-08-29_112806_919.jpg"
+        }
+      ]
+    },
+    {
       "id": "g1787316688845",
       "name": "救生员狂热 v1.10正式版",
       "section": "游戏",

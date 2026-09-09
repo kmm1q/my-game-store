@@ -268,9 +268,25 @@ document.getElementById('dialog-ok').addEventListener('click', () => {
 });
 document.getElementById('dialog-cancel').addEventListener('click', closeDialog);
 document.getElementById('dialog-link').addEventListener('click', () => {
-  if (dialogLinkUrl) window.open(dialogLinkUrl, '_blank', 'noopener');
+  // 联系卖家：不直接跳转，先弹交易提示，确认后再去店铺
+  if (!dialogLinkUrl) return;
+  sellerTargetUrl = dialogLinkUrl;
+  document.getElementById('seller-modal').hidden = false;
 });
 document.getElementById('dialog-backdrop').addEventListener('click', closeDialog);
+
+// 联系卖家提示弹窗
+let sellerTargetUrl = null;
+function closeSellerModal() {
+  document.getElementById('seller-modal').hidden = true;
+  sellerTargetUrl = null;
+}
+document.getElementById('seller-go').addEventListener('click', () => {
+  if (sellerTargetUrl) window.open(sellerTargetUrl, '_blank', 'noopener');
+  closeSellerModal();
+});
+document.getElementById('seller-cancel').addEventListener('click', closeSellerModal);
+document.getElementById('seller-backdrop').addEventListener('click', closeSellerModal);
 
 function clearCart() {
   showDialog('清空购物车', '确定要清空购物车里的所有商品吗？', {
@@ -296,7 +312,7 @@ function placeOrder() {
   showDialog('确认下单',
     `已选 <strong>${escapeHtml(String(items.length))}</strong> 件商品，合计 ${totalHtml}。` +
     `<span class="dialog-screenshot">请截屏购物车内的内容，方便与卖家核对订单</span>`,
-    { okText: '确定', link: { text: '联系卖家', url: 'https://m.tb.cn/h.85d9Vz3?tk=ZxuagBCRIxY' } });
+    { okText: '确定', link: { text: '联系卖家', url: 'https://m.tb.cn/h.8q7Ny5H?tk=qjseThyz1zA' } });
 }
 
 document.getElementById('btn-clear-cart').addEventListener('click', clearCart);
@@ -821,6 +837,7 @@ document.getElementById('lightbox-backdrop').addEventListener('click', closeLigh
 document.addEventListener('keydown', e => {
   if (e.key === 'Escape') {
     if (!document.getElementById('sub-modal').hidden) { closeSubPicker(); return; }
+    if (!document.getElementById('seller-modal').hidden) { closeSellerModal(); return; }
     if (!document.getElementById('discount-modal').hidden) { closeDiscount(); return; }
     if (lightboxOpen) { closeLightbox(); }
     else if (!document.getElementById('detail-modal').hidden) closeDetail();

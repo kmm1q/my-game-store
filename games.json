@@ -27,6 +27,55 @@
   },
   "games": [
     {
+      "id": "g1789181668793",
+      "name": "尼特天使与色色家族 v1.45 最新更新，附带新DLC+全回想",
+      "section": "游戏",
+      "categories": [
+        "PC",
+        "安卓"
+      ],
+      "category": "PC",
+      "price": "8.8",
+      "description": "神作更新了，这游戏也是老古董了，没想到还在更新。这次更新也是加了新DLC\n去除了烦人的马赛克，骑兵也是终于下马了~\n有安卓直装apk+PC版本\n这里必须给到：夯完了！！",
+      "cover": "images/1789181882257_ScreenShot_2026-09-12_103733_041.jpg",
+      "screenshots": [
+        "images/1789182042032_ScreenShot_111.jpg",
+        "images/1789181913047_ScreenShot_2026-09-12_103841_785.jpg",
+        "images/1789181913110_ScreenShot_2026-09-12_104002_117.jpg",
+        "images/1789181913167_ScreenShot_2026-09-12_104125_721.jpg",
+        "images/1789181913216_ScreenShot_2026-09-12_104416_222.jpg",
+        "images/1789181913281_ScreenShot_2026-09-12_104511_889.jpg",
+        "images/1789181913339_ScreenShot_2026-09-12_104620_303.jpg",
+        "images/1789181913390_ScreenShot_2026-09-12_104745_477.jpg",
+        "images/1789181913448_ScreenShot_2026-09-12_104909_775.jpg"
+      ],
+      "published": true,
+      "subs": []
+    },
+    {
+      "id": "g1789182130198",
+      "name": "卡琳的监狱 v1.3.1.69 Steam官中步兵版+全DLC+mod",
+      "section": "游戏",
+      "categories": [
+        "PC",
+        "安卓"
+      ],
+      "category": "PC",
+      "price": "7",
+      "description": "这款游戏就不多说了，玩法很多内容丰富，非常不错的一款RPG+SLG游戏。\n内置有DLC+mod，可作弊（应该。。）\n模拟器游玩可能会有文件兼容问题，推荐PC端游玩\n神作必须给到：夯！！！",
+      "cover": "images/1789183131842_ScreenShot_2026-09-09_222145_845.jpg",
+      "screenshots": [
+        "images/1789183147869_ScreenShot_2026-09-12_111157_101.jpg",
+        "images/1789183147913_ScreenShot_2026-09-12_111219_245.jpg",
+        "images/1789184403733_ScreenShot_2026-09-12_112112_534.jpg",
+        "images/1789184413004_ScreenShot_2026-09-12_113142_633.jpg",
+        "images/1789184413063_ScreenShot_2026-09-12_113626_924.jpg",
+        "images/1789184413119_ScreenShot_2026-09-12_113816_141.jpg"
+      ],
+      "published": true,
+      "subs": []
+    },
+    {
       "id": "g1787976864150",
       "name": "火影的养子 v1.10 安卓+PC",
       "section": "游戏",

@@ -27,6 +27,31 @@
   },
   "games": [
     {
+      "id": "g1791359992742",
+      "name": "二手3C（最新版安卓+PC版）",
+      "section": "游戏",
+      "categories": [
+        "PC",
+        "安卓"
+      ],
+      "category": "PC",
+      "price": "5",
+      "description": "不说了我也得去开修手机的店了,,,\nCG质量不错，目前也是更新了安卓直装的版本\n必须给到：夯！",
+      "cover": "images/1791360044151_ScreenShot_2026-10-07_155756_024.jpg",
+      "screenshots": [
+        "images/1791360054896_ScreenShot_2026-10-07_155854_900.jpg",
+        "images/1791360214611_ScreenShot_2026-10-07_155940_337.jpg",
+        "images/1791360214669_ScreenShot_2026-10-07_160115_906.jpg",
+        "images/1791360214718_ScreenShot_2026-10-07_160203_069.jpg",
+        "images/1791360214774_ScreenShot_2026-10-07_160219_656.jpg",
+        "images/1791360214831_ScreenShot_2026-10-07_160235_879.jpg",
+        "images/1791360214892_ScreenShot_2026-10-07_160259_410.jpg",
+        "images/1791360214943_ScreenShot_2026-10-07_160312_417.jpg"
+      ],
+      "published": true,
+      "subs": []
+    },
+    {
       "id": "g1789191148698",
       "name": "NTRMAN 目前所有游戏合集（16部）部分有安卓版",
       "section": "游戏",
@@ -252,7 +277,7 @@
     },
     {
       "id": "g1787316688845",
-      "name": "救生员狂热 v1.10正式版",
+      "name": "救生员狂热 v1.5正式版（无码版）",
       "section": "游戏",
       "categories": [
         "PC"
@@ -268,13 +293,14 @@
         "images/1787316759088_ScreenShot_2026-08-21_201908_084.jpg",
         "images/1787316759144_ScreenShot_2026-08-21_202146_294.jpg",
         "images/1787316759196_ScreenShot_2026-08-21_202209_861.jpg",
-        "images/1787316759249_ScreenShot_2026-08-21_202255_170.jpg",
+        "images/1791359730362_ScreenShot_2026-10-07_154835_231.jpg",
         "images/1787316759299_ScreenShot_2026-08-21_202336_166.jpg",
-        "images/1787316759354_ScreenShot_2026-08-21_202413_861.jpg",
-        "images/1787316759405_ScreenShot_2026-08-21_202434_577.jpg",
-        "images/1787316759453_ScreenShot_2026-08-21_202502_942.jpg",
+        "images/1791359754943_ScreenShot_2026-10-07_155232_642.jpg",
+        "images/1791359748573_ScreenShot_2026-10-07_155346_768.jpg",
+        "images/1791359738067_ScreenShot_2026-10-07_155313_600.jpg",
         "images/1787316759559_ScreenShot_2026-08-21_202815_174.jpg",
-        "images/1787316759502_ScreenShot_2026-08-21_202551_595.jpg"
+        "images/1791359774377_ScreenShot_2026-10-07_155403_953.jpg",
+        "images/1791359766319_ScreenShot_2026-10-07_155450_439.jpg"
       ],
       "published": true,
       "subs": []

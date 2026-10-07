@@ -27,6 +27,29 @@
   },
   "games": [
     {
+      "id": "g1791387125409",
+      "name": "克蕾娅的挣扎",
+      "section": "游戏",
+      "categories": [],
+      "category": "",
+      "price": "5",
+      "description": "CG很色，游戏还有类吸血鬼幸存者玩法，整体还是不错的一款游戏\n这里可以给到：顶级",
+      "cover": "images/1791387292473_ScreenShot_2026-10-07_233447_080.jpg",
+      "screenshots": [
+        "images/1791387304054_ScreenShot_2026-10-07_230443_582.jpg",
+        "images/1791387304095_ScreenShot_2026-10-07_230513_226.jpg",
+        "images/1791387304138_ScreenShot_2026-10-07_231505_619.jpg",
+        "images/1791387304188_ScreenShot_2026-10-07_231731_923.jpg",
+        "images/1791387304231_ScreenShot_2026-10-07_231949_469.jpg",
+        "images/1791387304273_ScreenShot_2026-10-07_232047_594.jpg",
+        "images/1791387304309_ScreenShot_2026-10-07_232243_649.jpg",
+        "images/1791387304353_ScreenShot_2026-10-07_232437_799.jpg",
+        "images/1791387304396_ScreenShot_2026-10-07_233135_199.jpg"
+      ],
+      "published": true,
+      "subs": []
+    },
+    {
       "id": "g1791359992742",
       "name": "二手3C（最新版安卓+PC版）",
       "section": "游戏",

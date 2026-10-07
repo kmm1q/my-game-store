@@ -30,8 +30,10 @@
       "id": "g1791387125409",
       "name": "克蕾娅的挣扎",
       "section": "游戏",
-      "categories": [],
-      "category": "",
+      "categories": [
+        "PC"
+      ],
+      "category": "PC",
       "price": "5",
       "description": "CG很色，游戏还有类吸血鬼幸存者玩法，整体还是不错的一款游戏\n这里可以给到：顶级",
       "cover": "images/1791387292473_ScreenShot_2026-10-07_233447_080.jpg",

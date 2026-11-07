@@ -84,6 +84,28 @@
       "subs": []
     },
     {
+      "id": "g1786112131244",
+      "name": "不是魅魔v3.1 最新更新版（安卓apk+PC）",
+      "section": "游戏",
+      "categories": [
+        "PC",
+        "安卓"
+      ],
+      "category": "PC",
+      "price": "5",
+      "description": "寻找伪人H版，目前内容还行，CG质量也不错，近期也是更新了许多内容。\n这个可以给到：顶级",
+      "cover": "images/1786112165145_ScreenShot_2026-08-07_221151_199.jpg",
+      "screenshots": [
+        "images/1786112173363_ScreenShot_2026-08-07_221514_890.jpg",
+        "images/1786112173158_ScreenShot_2026-08-07_221219_531.jpg",
+        "images/1786112173208_ScreenShot_2026-08-07_221243_714.jpg",
+        "images/1786112173256_ScreenShot_2026-08-07_221308_334.jpg",
+        "images/1786112173312_ScreenShot_2026-08-07_221427_896.jpg"
+      ],
+      "published": true,
+      "subs": []
+    },
+    {
       "id": "g1791387125409",
       "name": "克蕾娅的挣扎",
       "section": "游戏",
@@ -383,7 +405,7 @@
     },
     {
       "id": "g1786048584849",
-      "name": "修仙•母珠传v0.74a 官中步兵版+DLC2",
+      "name": "修仙•母珠传v0.76a 官中步兵版+DLC2（最新更新版优化了界面UI）",
       "section": "游戏",
       "categories": [
         "PC"
@@ -808,27 +830,6 @@
         "images/1785932899755_ScreenShot_2026-07-11_043607_505.jpg",
         "images/1785932899759_ScreenShot_2026-07-11_043704_767.jpg",
         "images/1785932899761_ScreenShot_2026-07-11_044021_639.jpg"
-      ],
-      "published": true
-    },
-    {
-      "id": "g1786112131244",
-      "name": "不是魅魔v2.1（安卓apk+PC）",
-      "section": "游戏",
-      "categories": [
-        "PC",
-        "安卓"
-      ],
-      "category": "PC",
-      "price": "5",
-      "description": "寻找伪人H版，目前内容还行，CG质量也不错\n这个可以给到：顶级",
-      "cover": "images/1786112165145_ScreenShot_2026-08-07_221151_199.jpg",
-      "screenshots": [
-        "images/1786112173363_ScreenShot_2026-08-07_221514_890.jpg",
-        "images/1786112173158_ScreenShot_2026-08-07_221219_531.jpg",
-        "images/1786112173208_ScreenShot_2026-08-07_221243_714.jpg",
-        "images/1786112173256_ScreenShot_2026-08-07_221308_334.jpg",
-        "images/1786112173312_ScreenShot_2026-08-07_221427_896.jpg"
       ],
       "published": true
     },

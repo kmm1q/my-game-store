@@ -27,6 +27,32 @@
   },
   "games": [
     {
+      "id": "g1794926702160",
+      "name": "夏日魔女",
+      "section": "游戏",
+      "categories": [
+        "PC"
+      ],
+      "category": "PC",
+      "price": "5",
+      "description": "画风非常像神作夏日狂想曲，可惜不是同一个作者。\n质量还可以，像素CG不错，立绘差点意思\n可以给到一个：顶级",
+      "cover": "images/1794926773419_ScreenShot_2026-11-17_214620_326.jpg",
+      "screenshots": [
+        "images/1794926795494_ScreenShot_2026-11-17_215235_198.jpg",
+        "images/1794926795537_ScreenShot_2026-11-17_215250_547.jpg",
+        "images/1794926795751_ScreenShot_2026-11-17_224356_558.jpg",
+        "images/1794926795411_ScreenShot_2026-11-17_214641_108.jpg",
+        "images/1794926795452_ScreenShot_2026-11-17_215206_017.jpg",
+        "images/1794926795582_ScreenShot_2026-11-17_220029_741.jpg",
+        "images/1794926795622_ScreenShot_2026-11-17_220103_659.jpg",
+        "images/1794926795663_ScreenShot_2026-11-17_220148_040.jpg",
+        "images/1794926795705_ScreenShot_2026-11-17_224023_526.jpg",
+        "images/1794926795791_ScreenShot_2026-11-17_224457_325.jpg"
+      ],
+      "published": true,
+      "subs": []
+    },
+    {
       "id": "g1787316688845",
       "name": "救生员狂热 v2.2最新更新DLC版（无码版）",
       "section": "游戏",
